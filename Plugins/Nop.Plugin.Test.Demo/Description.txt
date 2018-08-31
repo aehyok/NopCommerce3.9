@@ -1,0 +1,9 @@
+﻿Group: Exchange rate providers
+FriendlyName: TestDemo
+SystemName: Test.Demo
+Version: 0.1
+SupportedVersions: 3.90
+Author: aehyok
+DisplayOrder: 1
+FileName: Nop.Plugin.Test.Demo.dll
+Description: 这个插件允许进行测试
